@@ -8,9 +8,9 @@ int main()
 
 	printf("Z.Yaren Oguz,123456,SE\n");
 
-	printf("Ozge Tekin,987654,SE\n");
+	printf("Berna Nur UNAL,19243610040,ISE\n");
 
-	printf("Doğan Berkay Sözer,18243510068,Computer Engineering\n");
+	
 
 
 
